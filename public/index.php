@@ -32,6 +32,7 @@
                 color: #fff;
             }
         </style>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.min.css" />
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     </head>
     <body class="">
@@ -96,8 +97,8 @@
                 </div>
             </div>
         </div>
-
-        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+		<a target="_blank" class="github-fork-ribbon right-bottom fixed" href="https://github.com/swordbeta/potgify" title="Fork me on GitHub">Fork me on GitHub</a>
+		<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
