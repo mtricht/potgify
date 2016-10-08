@@ -1,0 +1,4 @@
+vendor/
+images/*
+!.gitkeep
+.idea/

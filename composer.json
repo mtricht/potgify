@@ -1,0 +1,6 @@
+{
+    "require": {
+        "intervention/image": "^2.3",
+        "james-heinrich/getid3": "^1.9"
+    }
+}
