@@ -5,6 +5,7 @@ Written in PHP and may contain bugs/vulnerabilities. There's still a lot that co
 This was written to see if I could achieve this with avconv.
 
 [Live Demo][1]
+[Example output][2]
 
 ### Build & Run
 
@@ -16,3 +17,4 @@ docker run -d --name potg -v $(pwd):/var/www/html/ -p 9090:80 potg
 ```
 
 [1]: https://swordbeta.com/potg/
+[2]: https://swordbeta.com/out.mp4
