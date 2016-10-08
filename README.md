@@ -4,8 +4,8 @@ An experimental Overwatch play of the game video (meme) generator.
 Written in PHP and may contain bugs/vulnerabilities. There's still a lot that could be improved.
 This was written to see if I could achieve this with avconv.
 
-[Live Demo][1]
-[Example output][2]
+- [Live Demo][1]
+- [Example output][2]
 
 ### Build & Run
 
