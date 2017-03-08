@@ -15,6 +15,4 @@ cd potgify
 docker build -t potg .
 docker run -d --name potg -v $(pwd):/var/www/html/ -p 9090:80 potg
 ```
-
-[1]: https://swordbeta.com/potg/
 [2]: https://swordbeta.com/out.mp4
